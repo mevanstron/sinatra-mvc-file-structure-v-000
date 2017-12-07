@@ -1,4 +1,4 @@
 class Dog
 
-  def initialize(:name, :breed, :age)
+  def initialize(name:, breed:, age:)
 end
